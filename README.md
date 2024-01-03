@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RojasIgnacioDev
-- 👀 I’m interested in get a job as a .Net developer.
+- 👀 I’m interested in getting a job as a .Net developer.
 - 🌱 I’m currently learning .Net
 - 💞️ I’m looking to collaborate on whatever projects I can help.
 - 📫 How to reach me ...
