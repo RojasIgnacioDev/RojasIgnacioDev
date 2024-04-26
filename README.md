@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RojasIgnacioDev
-- 👀 I’m interested in getting a job as a .Net developer.
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on whatever projects I can help.
+- 👀 I’m interested in getting a job as a Graphics Programmer.
+- 🌱 I’m currently learning DirectX 11.
+- 💞️ I’m looking to collaborate for any project I can help.
 - 📫 How to reach me ...
 
 <!---
